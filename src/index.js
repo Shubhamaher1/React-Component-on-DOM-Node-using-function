@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import App from "./components/App";
 
 
-class Index expect React.Component{
+class Index extends ReactDOM.Component{
   render(){
     return(
       <App/>
